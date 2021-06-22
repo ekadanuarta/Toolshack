@@ -13,7 +13,7 @@ def menu():
 ========================================
 Created By AnonHacker
 
-Ver: 2.0
+Versi: 2.0
 ----
 ONLY FOR TERMUX!
 ----
